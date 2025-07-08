@@ -1,0 +1,10 @@
+{
+    "Sender":"placeholder@gmail.com",
+    "Reciever":"placeholder@gmail.com",
+    "Subject":"Daily Email",
+    "Message":
+    {
+        "Text":"",
+        "Program_Retrieval_List":{"Date":true}
+    }
+}
